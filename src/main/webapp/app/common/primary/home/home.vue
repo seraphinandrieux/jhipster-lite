@@ -1,8 +1,9 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../../../../content/images/JHipster-Lite-neon-green.png" />
     <div class="hello">
+      <img alt="Vue logo" src="../../../../content/images/logo.png" />
       <h1>Welcome to Your Vue.js + TypeScript App</h1>
+      <img alt="JHipster Lite logo" src="../../../../content/images/JHipster-Lite-neon-green.png" />
       <p>
         For a guide and recipes on how to configure / customize this project,<br />
         check out the
