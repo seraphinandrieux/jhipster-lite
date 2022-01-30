@@ -68,7 +68,7 @@
   </div>
 </template>
 
-<script lang="ts" src="./home.component.ts"></script>
+<script lang="ts" src="./Home.component.ts"></script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>

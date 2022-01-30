@@ -6,7 +6,7 @@
   <router-view />
 </template>
 
-<script lang="ts" src="./app.component.ts"></script>
+<script lang="ts" src="./App.component.ts"></script>
 
 <style>
 #app {
