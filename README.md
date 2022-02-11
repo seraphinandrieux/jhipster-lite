@@ -1,6 +1,6 @@
 [![Logo JHipster Lite][jhipster-image]][jhipster-url]
 
-# JHipster Lite ⚡
+# JHipster Liteeeeee ⚡
 
 [![JHipster Lite version][jhipster-lite-release-version]][jhipster-lite-release-url]
 [![Build Status][github-actions-jhlite-image]][github-actions-url]
