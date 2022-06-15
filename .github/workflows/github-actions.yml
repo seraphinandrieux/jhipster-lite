@@ -197,6 +197,12 @@ jobs:
           elif [ -f 'gradlew' ]; then
             ./gradlew check
           fi
+      - name: 'Test: cypress ${{ matrix.app }}'
+          working-directory: /tmp/jhlite/${{ matrix.app }}/
+          run: |
+            if [ -f 'src/main/webapp/app/maint.ts' ]; then
+             npm run test
+            fi
       - name: 'Test: check local Sonar Analysis'
         run: |
           if [ -f '/tmp/jhlite/${{ matrix.app }}/src/main/docker/sonar.yml' ]; then
