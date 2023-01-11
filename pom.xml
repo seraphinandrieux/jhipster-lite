@@ -39,7 +39,7 @@
     <maven-enforcer-plugin.version>3.0.0</maven-enforcer-plugin.version>
 
     <spring-boot.version>2.6.7</spring-boot.version>
-    <junit-jupiter.version>5.8.2</junit-jupiter.version>
+    <junit-jupiter.version>5.9.2</junit-jupiter.version>
     <assertj.version>3.22.0</assertj.version>
     <mockito.version>4.5.1</mockito.version>
     <byte-buddy.version>1.12.10</byte-buddy.version>
